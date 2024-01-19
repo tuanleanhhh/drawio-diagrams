@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T08:34:30.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="O1EorxUKKxaFkmNyZolo" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T08:48:09.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UlQoFvL6T1UOxV5T9yyQ" version="22.1.21" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3187" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
         <mxCell id="6wsoaNjtm7rWjbxrsb1S-180" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 21px;&quot;&gt;Chọn phương &lt;br style=&quot;font-size: 21px;&quot;&gt;thức thanh toán&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="1860" y="1975" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6wsoaNjtm7rWjbxrsb1S-181" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;Verify đơn hàng&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="6wsoaNjtm7rWjbxrsb1S-181" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;Thông báo trạng&lt;br&gt;thái đơn hàng&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1860" y="1775" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6wsoaNjtm7rWjbxrsb1S-182" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;Verify đơn hàng&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=20;" parent="1" vertex="1">
