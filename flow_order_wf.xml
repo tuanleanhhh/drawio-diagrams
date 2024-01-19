@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T08:48:09.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UlQoFvL6T1UOxV5T9yyQ" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T08:50:11.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EdVNMr0e5jr6Xjs__1NK" version="22.1.21" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3187" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
             <mxPoint x="1764.3537414965986" y="1483.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="90" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;Đặt món&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="90" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;Đặt món&lt;/font&gt;" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1550.004557823129" y="1248.5" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="140" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -196,7 +196,7 @@
         <mxCell id="6wsoaNjtm7rWjbxrsb1S-170" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;Thông báo có đơn&lt;br style=&quot;font-size: 20px;&quot;&gt;hàng mới&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1859.67" y="1677" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6wsoaNjtm7rWjbxrsb1S-171" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;Update trạng thái&lt;br&gt;phục vụ&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="6wsoaNjtm7rWjbxrsb1S-171" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;Update trạng thái&lt;br&gt;phục vụ&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="rounded=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1550" y="1775" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6wsoaNjtm7rWjbxrsb1S-172" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=3;strokeColor=#0C343D;fontFamily=Helvetica;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6wsoaNjtm7rWjbxrsb1S-170" target="6wsoaNjtm7rWjbxrsb1S-171" edge="1">
@@ -217,7 +217,7 @@
             <mxPoint x="2040" y="1593" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6wsoaNjtm7rWjbxrsb1S-176" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;Tạo đơn hàng&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="6wsoaNjtm7rWjbxrsb1S-176" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;Tạo đơn hàng&lt;/font&gt;" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1550.004557823129" y="1875" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6wsoaNjtm7rWjbxrsb1S-177" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;Chọn Voucher&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=20;aspect=fixed;" parent="1" vertex="1">
